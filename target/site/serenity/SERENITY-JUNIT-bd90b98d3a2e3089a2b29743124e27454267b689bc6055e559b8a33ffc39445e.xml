@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Autenticación de usuario en la api" skipped="0" tests="3" time="3.75" timestamp="2021-05-27 12:02:03"><testcase name="Autenticacion exitosa"/><testcase name="Autenticacion fallida"/><testcase name="segunda Autenticacion Fallida"><failure message="1 expectation failed.&#10;Expected status code &lt;403&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;403&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;403&gt; but was &lt;200&gt;.
+&#13;
+screenplay.steps.Autenticacion.laApiContestaConUnError(Autenticacion.java:63)&#13;
+✽.: la api contesta con un error "403"(file:///C:/Users/jacob/OneDrive/Escritorio/certificacion-pacientes-covid/src/test/resources/feature/autenticacion.feature:15)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"obtencion de información de pacientes","obtencion de informacion de paciente","SUCCESS","2021-05-27T11:54:40.5687116-05:00[America/Bogota]","0.0","0.08"
+"obtencion de información de pacientes","Obtencion sin autorizacion","SUCCESS","2021-05-27T11:54:40.6623146-05:00[America/Bogota]","0.0","0.08"
+"obtencion de información de pacientes","paciente inextistente","SUCCESS","2021-05-27T11:54:40.7497844-05:00[America/Bogota]","0.0","0.12"

@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"administrar informacion de citas","Consulta exitosa de citas por paciente","SUCCESS","2021-05-27T11:54:40.1320828-05:00[America/Bogota]","0.0","0.13"
+"administrar informacion de citas","Consulta fallida","FAILURE","2021-05-27T11:54:40.2736816-05:00[America/Bogota]","0.0","0.14"
+"administrar informacion de citas","consulta sin autorizacion","SUCCESS","2021-05-27T11:54:40.4200699-05:00[America/Bogota]","0.0","0.08"
+"administrar informacion de citas","Creacion de citas exitosa","SUCCESS","2021-05-27T11:54:38.9849592-05:00[America/Bogota]","0.0","0.74"
+"administrar informacion de citas","Creacion de citas fallida","FAILURE","2021-05-27T11:54:39.7337587-05:00[America/Bogota]","0.0","0.11"
+"administrar informacion de citas","creacion de sin autorizacion","SUCCESS","2021-05-27T11:54:39.8533449-05:00[America/Bogota]","0.0","0.1"
+"administrar informacion de citas","creacion sin id","SUCCESS","2021-05-27T11:54:39.9689284-05:00[America/Bogota]","0.0","0.1"

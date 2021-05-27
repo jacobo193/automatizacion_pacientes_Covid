@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="obtencion de información de pacientes" skipped="0" tests="3" time="4.77" timestamp="2021-05-27 12:03:31"><testcase name="obtencion de informacion de paciente"/><testcase name="Obtencion sin autorizacion"/><testcase name="paciente inextistente"/></testsuite>

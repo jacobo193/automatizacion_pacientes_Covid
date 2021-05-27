@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="administrar informacion de citas" skipped="0" tests="3" time="4.41" timestamp="2021-05-27 12:03:09"><testcase name="Consulta exitosa de citas por paciente"/><testcase name="Consulta fallida"><failure message="1 expectation failed.&#10;Expected status code &lt;404&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;404&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;404&gt; but was &lt;200&gt;.
+&#13;
+screenplay.steps.CitasDePacienteId.elApiNoMostraraNadaYResponderaConUnEstatus(CitasDePacienteId.java:66)&#13;
+✽.: el Api no mostrara nada y respondera con un estatus "404"(file:///C:/Users/jacob/OneDrive/Escritorio/certificacion-pacientes-covid/src/test/resources/feature/CitasPorID.feature:11)&#13;
+</system-err></testcase><testcase name="consulta sin autorizacion"/></testsuite>

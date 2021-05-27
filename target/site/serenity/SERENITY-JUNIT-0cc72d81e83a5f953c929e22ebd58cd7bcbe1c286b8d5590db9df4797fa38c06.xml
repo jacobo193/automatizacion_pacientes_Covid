@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="administrar informacion de citas" skipped="0" tests="4" time="4.83" timestamp="2021-05-27 12:02:40"><testcase name="Creacion de citas exitosa"/><testcase name="Creacion de citas fallida"><failure message="1 expectation failed.&#10;Expected status code &lt;500&gt; but was &lt;201&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;201&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;201&gt;.
+&#13;
+screenplay.steps.citas.noSePuedeCrearUnaCitaExitosamente(citas.java:80)&#13;
+✽.: no se puede crear una cita exitosamente(file:///C:/Users/jacob/OneDrive/Escritorio/certificacion-pacientes-covid/src/test/resources/feature/citas.feature:11)&#13;
+</system-err></testcase><testcase name="creacion de sin autorizacion"/><testcase name="creacion sin id"/></testsuite>

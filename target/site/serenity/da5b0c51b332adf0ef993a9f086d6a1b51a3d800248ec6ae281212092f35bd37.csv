@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"administrar informacion de citas","Consulta fallida","FAILURE","2021-05-27T11:54:40.2736816-05:00[America/Bogota]","0.0","0.14"
+"Administrar información de pacientes incorrecto","Creacion de paciente fallida","FAILURE","2021-05-27T11:54:41.2491553-05:00[America/Bogota]","0.0","0.1"
+"Autenticación de usuario en la api","segunda Autenticacion Fallida","FAILURE","2021-05-27T11:54:37.0365673-05:00[America/Bogota]","0.0","0.11"
+"administrar informacion de citas","Creacion de citas fallida","FAILURE","2021-05-27T11:54:39.7337587-05:00[America/Bogota]","0.0","0.11"

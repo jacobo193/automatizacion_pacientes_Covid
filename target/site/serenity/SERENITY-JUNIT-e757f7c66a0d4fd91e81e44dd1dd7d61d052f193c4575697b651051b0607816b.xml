@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Administrar información de pacientes incorrecto" skipped="0" tests="1" time="4.39" timestamp="2021-05-27 12:04:00"><testcase name="Creacion de paciente fallida"><failure message="1 expectation failed.&#10;Expected status code &lt;500&gt; but was &lt;201&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;201&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;201&gt;.
+&#13;
+screenplay.steps.PacienteInvalido.noSePuedeCrearElPacienteEnLaApi(PacienteInvalido.java:54)&#13;
+✽.no se puede crear el paciente en la api(file:///C:/Users/jacob/OneDrive/Escritorio/certificacion-pacientes-covid/src/test/resources/feature/PacienteInvalido.feature:9)&#13;
+</system-err></testcase></testsuite>
